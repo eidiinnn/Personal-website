@@ -25,7 +25,7 @@ export default class About extends Component {
               Olá, Meu nome é<br />
               <TitleBiggerText>
                 Eduardo da Silva. <br />
-                Desenvolvedor Javascript
+                Desenvolvedor
               </TitleBiggerText>
             </Title>
           </Fade>

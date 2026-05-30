@@ -9,9 +9,16 @@ export const textsAndConfigs = {
       name: 'Scl sistemas',
       techs: 'Figma · Node.js · MongoDB · React Native · Expo · TypeScript · jQuery · Cascading Style Sheets (CSS) · JavaScript · HTML',
       started:'Junho 2022',
-      end: 'Presente',
+      end: 'Maio 2026',
       text: `Desenvolvimento e manutenção de projetos como 
       TOTH-DIRECT, TOTHREP e Supervisor`
+    },
+     {
+      name: 'Intelidata',
+      techs: 'Java · Postgres · Android',
+      started:'Maio 2026',
+      end: 'presente',
+      text: `Desenvolvimento e manutenção de projetos mobile nativo`
     },
   ],
 
